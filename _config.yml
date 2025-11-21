@@ -20,12 +20,12 @@ source-code: https://github.com/joyjosh99/CollectionBuilder/tree/main
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Sounds From the Black Hole, A Modern History 2024-2025 
+title: Sounds From the Black Hole 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A Modern History 2024-2025
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A digital repository for images, videos and promotional materials from one of the Midwest's most unique music scenes."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
