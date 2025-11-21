@@ -9,7 +9,7 @@ permalink: /musicians.html
 cloud-fields: site.data.theme.musicians-fields
 ---
 
-## Browse Subjects
+## Browse Featured Musicians
 
 Use this word cloud visualization to browse featured musicians.
 Word size is determined by frequency and all words link to a corresponding collection search.
