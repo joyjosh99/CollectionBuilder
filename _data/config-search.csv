@@ -6,3 +6,4 @@ description,true,true
 subject,true,true
 location,true,false
 musicians,true,true
+instruments,true,true
